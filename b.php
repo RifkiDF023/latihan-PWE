@@ -1,1 +1,3 @@
-hai....
+<php>
+    echo 'Halo';
+</php>
